@@ -12,6 +12,8 @@ Lets Connect
 
 [Maven Analytics](https://mavenanalytics.io/project/5796) 🌐
 
+[Dataset Link](https://www.kaggle.com/datasets/shivamb/netflix-shows) 🌐
+
 ## PROJECT NAME: 
 
 Netflix Data Analysis Using Tableau 
@@ -30,9 +32,8 @@ Netflix Data Analysis Using Tableau
 ## STEPS:
 
     i) Data subset collected from online.
-    ii) Loading Libraries
-    iii) Data Cleaning & Finding Missing values
-    iv) Data Visualization
+    ii) Data Cleaning & Finding Missing values
+    iii) Data Visualization
     
 ## DATA VISUALIZATION: 
 
