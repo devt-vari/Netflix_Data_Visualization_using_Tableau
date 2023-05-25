@@ -10,6 +10,8 @@ Lets Connect
 
 [Go to my Dashboard](https://public.tableau.com/views/Netflix_Visualization_Analysis/Netflix?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+[Maven Analytics](https://mavenanalytics.io/project/5796) 🌐
+
 ## PROJECT NAME: 
 
 Netflix Data Analysis Using Tableau 
